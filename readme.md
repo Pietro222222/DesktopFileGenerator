@@ -7,7 +7,7 @@ bro it has a GUI.
 
 # how it look likes
 
-![img](https://i.imgur.com/Knk4Q6k.png)
+![img](https://i.imgur.com/tnlZSC7.png)
 
 # where are my .desktop files?
 

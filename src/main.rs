@@ -119,7 +119,7 @@ fn main() {
                 bin_file.into_os_string().into_string().unwrap(),
                 terminal.is_active(),
             );
-            desktopfile.save(fast_install.activate());
+            desktopfile.save(fast_install.is_active());
         });
 
         window.show_all();

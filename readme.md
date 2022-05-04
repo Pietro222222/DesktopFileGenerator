@@ -13,5 +13,5 @@ bro it has a GUI.
 
 /home/your_user/Downloads/
 
-## NOTE: if you select `fast_install` it'll automatically install it in `/home/your_user/.local/share/applications/`
+## NOTE: if you select `fast_install` it'll automatically install it at `/home/your_user/.local/share/applications/`
 
